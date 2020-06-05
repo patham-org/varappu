@@ -10,7 +10,7 @@
 # பங்களிப்பு
 இத்திட்டத்திற்கு நீங்களும் பங்களிப்புச் செய்யலாம். 
 விதிகள் YAML வடிவத்தில்  அமைக்கப்பட்டுள்ளன. 
-YAML [https://yaml.org/]
+- YAML [https://yaml.org/]
 
 அதிகாரங்கள் கோப்புறைகளாகப் பிரிக்கப்பட்டுள்ளன :  **எழுத்ததிகாரம் , சொல்லதிகாரம்**
 பகுதிகள் கோப்புக்களாகப் பிரிக்கப்பட்டுள்ளன  : **1.எழுத்தியல்.yaml , 2.பதவியல்.yaml** என்பவை. 
@@ -59,9 +59,9 @@ YAML இல் எழுதப்பட்டுள்ள தமிழ் இல
 
 
 # நன்றி
- நன்னூல்  :  http://www.tamilvu.org/library/l0900/html/l0900ind.htm
-நன்னூல் மூலமும் கூழங்கைத்தம்பிரான் உரையும் :   https://books.patham.org/book/1008-%E0%AE%A8%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%82%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AF%82%E0%AE%B4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%A9%E0%AF%8D-%E0%AE%89%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D/52/
-வடிவமைப்புத் தூண்டுதல் :  https://github.com/srix/pytamil/blob/55bb0592494ef8847955e5ddbeede25d9faa72f2/pytamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D/%E0%AE%AA%E0%AF%81%E0%AE%A3%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D.yaml
+- நன்னூல்  :  http://www.tamilvu.org/library/l0900/html/l0900ind.htm
+- நன்னூல் மூலமும் கூழங்கைத்தம்பிரான் உரையும் :   https://books.patham.org/book/1008-%E0%AE%A8%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%82%E0%AE%B2%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AF%82%E0%AE%B4%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%88%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%AE%E0%AF%8D%E0%AE%AA%E0%AE%BF%E0%AE%B0%E0%AE%BE%E0%AE%A9%E0%AF%8D-%E0%AE%89%E0%AE%B0%E0%AF%88%E0%AE%AF%E0%AF%81%E0%AE%AE%E0%AF%8D/52/
+- வடிவமைப்புத் தூண்டுதல் :  https://github.com/srix/pytamil/blob/55bb0592494ef8847955e5ddbeede25d9faa72f2/pytamil/%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D/%E0%AE%AA%E0%AF%81%E0%AE%A3%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%B5%E0%AE%BF%E0%AE%A4%E0%AE%BF%E0%AE%95%E0%AE%B3%E0%AF%8D.yaml
 
 
 # தொகுப்பு வரலாறு
